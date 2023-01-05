@@ -1,0 +1,8 @@
+#!/bin/bash
+
+while :
+
+do
+      sleep 5m
+      play lili_bouniche_bambino.mp3
+done      
