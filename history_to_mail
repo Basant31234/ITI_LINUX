@@ -1,0 +1,1902 @@
+    1  sudo su
+    2  ls
+    3  cd ~
+    4  ls
+    5  snap
+    6  pwd
+    7  mkdir basant
+    8  cd basant
+    9  cd ..
+   10  ls
+   11  touch basant
+   12  ls
+   13  touch mm
+   14  ls
+   15  ls
+   16  cs /bin
+   17  cd /bin
+   18  ls
+   19  ls grep ls
+   20  ls
+   21  cat ls
+   22  clear
+   23  cat
+   24  cd /bin
+   25  gedit ls
+   26  cd ~
+   27  touch file
+   28  getib file
+   29  gitit file
+   30  ls
+   31  gedit file
+   32  cat file
+   33  cd /etc
+   34  ls
+   35  cd..
+   36  cd ..
+   37  cd ~
+   38  ifconfig
+   39  if config clear
+   40  if config
+   41  ifconfig
+   42  sudo apt install net-tools
+   43  getib file
+   44  getib test.c -o out
+   45  gedit test.c -o out
+   46  cd /dev
+   47  ls
+   48  /input
+   49  cd input
+   50  ls
+   51  cd ~
+   52  ls
+   53  cd Desktop
+   54  touch test.py
+   55  gedit test.py
+   56  py test.py
+   57  run test.py
+   58  by test.py
+   59  python test.py
+   60  python3 test.py
+   61  gedit test.py
+   62  python test.py
+   63  python3 test.py
+   64  gedit test.py
+   65  touch test.c
+   66  gedit test.c
+   67  gcc test.c -o out
+   68  sudo apt install gcc
+   69  cd /usr
+   70  cd /include
+   71  ls
+   72  cd include
+   73  lw
+   74  ls
+   75  sudo apt install build-essential
+   76  cd /
+   77  ls
+   78  cd /bin
+   79  ls
+   80  cd..
+   81  cd ..
+   82  /home$ ls
+   83  cd ~
+   84  cd ..
+   85  ls
+   86  cd ~
+   87  ifconfig
+   88  sudo apt install net-tools
+   89  sudo mv eclipse/opt/
+   90  sudo mv eclipse /opt/
+   91  cd~
+   92  cd ~
+   93  sudo chown -R $USER:USER/opt/eclipse
+   94  sudo chown -R $USER:$USER/opt/eclipse
+   95  sudo chown -R $USER:$USER /opt/eclipse
+   96  nano eclipse.desktop
+   97  mv eclipse.desktop.local/share/application/
+   98  mv eclipse.desktop .local/share/applications/
+   99  sudo apt-get install build essential
+  100  sudo apt-get install build-essential
+  101  cd /
+  102  l
+  103  ls
+  104  cd /usr
+  105  ls
+  106  cd include
+  107  ls
+  108  cd /
+  109  cd bin
+  110  cd/bin
+  111  ls
+  112  ls | grep include
+  113  ls |grep mk
+  114  ls |grep inc
+  115  cd ~
+  116  sudo apt install build-essential
+  117  ls
+  118  cd desktop
+  119  cd Desktop
+  120  lc
+  121  ls
+  122  gcc test.c -o test
+  123  python test.py
+  124  python3 test.py
+  125  test.py
+  126  sudo apt install gcc
+  127  --fix-missing
+  128  apt-get
+  129  gcc
+  130  sudo apt install gcc
+  131  gcc -version
+  132  sudo apt-get install gcc
+  133  sudo apt-get install build-essential
+  134  sudo -i
+  135  sudo apt install apache2
+  136  gcc
+  137  sudo apt install gcc
+  138  sudo apt-get install build-essential
+  139  ls
+  140  gcc test.c -o te
+  141  test.c
+  142  ./test.c
+  143  ./test
+  144  gcc --version
+  145  gcc test.c -o test
+  146  ./test
+  147  touch file.c
+  148  sudo apt-get purge
+  149  sudo apt install -f
+  150  sudo apt install default-jre
+  151  sudo apt update
+  152  sudo apt install note
+  153  sudo apt install gnome_tweal_tool
+  154  sudo apt install gnome-tweak-tool
+  155  sudo apt install gnome-tweak
+  156  sudo apt install chrome-gnome-shell
+  157  sudo su
+  158  ls
+  159  ls-a
+  160  ls -a
+  161  sudo apt install htop
+  162  htop
+  163  sudo apt install g++ mingw-w64
+  164  sudo -k
+  165  sudo -h
+  166  pwd
+  167  pwd -l
+  168  ls
+  169  cd basant
+  170  ls
+  171  cd..
+  172  cd ,,
+  173  cd ..
+  174  ls
+  175  pwd
+  176  ls
+  177  cd basant
+  178  pwd
+  179  cd ~
+  180  ls
+  181  ls -r
+  182  ls
+  183  ls =a
+  184  ls -a
+  185  ls
+  186  ls -a
+  187  ls
+  188  ls -lh
+  189  ls
+  190  cd basant
+  191  cd -
+  192  cd-
+  193  ls
+  194  cd mm
+  195  cd Desktop
+  196  ls
+  197  cd-
+  198  cd -
+  199  ls
+  200  cat file.txt
+  201  cat test.c
+  202  cd
+  203  ls
+  204  cat file
+  205  ls
+  206  cd Desktop
+  207  ls
+  208  cat text.py
+  209  cat text.c
+  210  ls
+  211  cat test.c
+  212  cat test.py
+  213  ls
+  214  tac test.c
+  215  cat file.txt
+  216  ls
+  217  touch t1.txt
+  218  touch t2.txt
+  219  car t1
+  220  cat t1
+  221  cls
+  222  ls
+  223  cat t1.tx
+  224  cat t1.txt
+  225  cat t2.txt
+  226  cat t1.txt t2.txt
+  227  cat t1.txt
+  228  cat t2.txt
+  229  ls
+  230  mv t1.txt te1.txt
+  231  ls
+  232  pwd
+  233  cd ..
+  234  ls
+  235  cd -
+  236  pwd
+  237  ls
+  238  mv t2.txt /home/basant
+  239  ls
+  240  cd ..
+  241  ls
+  242  mv t2.txt /home/basant/Desktop
+  243  cd Desktop
+  244  ls
+  245  pwd
+  246  cp t2.txt /home/basant
+  247  ls
+  248  cd ..
+  249  ls
+  250  cd Desktop
+  251  ls
+  252  te1.txt
+  253  cat te1.txt
+  254  cp te1.txt t2.txt
+  255  cat t2.txt
+  256  ls
+  257  mkdir new
+  258  ls
+  259  mkdir new new2
+  260  mkdir new/new2
+  261  ls
+  262  cd new
+  263  ls
+  264  cd ..
+  265  ls
+  266  pwd
+  267  ls
+  268  cd new
+  269  ls
+  270  cd ..
+  271  mkdir -p new/ww/new2
+  272  ls
+  273  cd new
+  274  ls
+  275  cd new2
+  276  ls
+  277  cd..
+  278  cd ..
+  279  ls
+  280  cd ww
+  281  ls
+  282  cd ..
+  283  ls
+  284  cd..
+  285  cd ..
+  286  ls
+  287  mkdir hi
+  288  mkdir hi/hello
+  289  cd hi
+  290  ls
+  291  cd hello
+  292  ls
+  293  cd..
+  294  cd ..
+  295  cd.. 
+  296  cd ..
+  297  ls
+  298  mkdir hi/2020/hello
+  299  ls
+  300  cd ..
+  301  cd-
+  302  cd -
+  303  ls
+  304  cd hi
+  305  ls
+  306  cd hello
+  307  cd
+  308  ls
+  309  cd-
+  310  cd -
+  311  ls
+  312  cd -
+  313  ls
+  314  cd
+  315  ls
+  316  cd -
+  317  ls
+  318  cd Desktop
+  319  ls
+  320  mkdir -p hi/2022/hello
+  321  cd hi
+  322  ls
+  323  cd hello
+  324  ls
+  325  cd ..
+  326  ls
+  327  cd 2022
+  328  ls
+  329  mkdir -p hi/1/2
+  330  ls
+  331  cd hi
+  332  ls
+  333  cd 1
+  334  ls
+  335  cd2
+  336  cd 2
+  337  ls
+  338  cd ..
+  339  cd Desktop
+  340  ls
+  341  cd hi
+  342  mkdir -v 2222
+  343  ls
+  344  cd hello
+  345  ls
+  346  cd ..
+  347  rmdir hi
+  348  sudo rmdir hi
+  349  ls
+  350  cd ..
+  351  ls
+  352  sudo rmdir hi
+  353  cd hi
+  354  cd 2022
+  355  ls
+  356  cd hi
+  357  ls
+  358  cd ..
+  359  cd hello
+  360  ls
+  361  cd ..
+  362  sudo rmdir hello
+  363  ls
+  364  sudo rmdir hi
+  365  ls
+  366  rm hi
+  367  sudo rm hi
+  368  ls
+  369  cd ..
+  370  ls
+  371  sudo rm 2022
+  372  sudo
+  373  -i
+  374  sudo -i
+  375  ls
+  376  touch 2022/te.txt
+  377  cd 2022
+  378  ls
+  379  locate hi
+  380  sudo apt install plocate
+  381  find -name hi
+  382  cd ..
+  383  ls
+  384  cd ..
+  385  ls
+  386  find -name Desktop
+  387  cd -
+  388  ls
+  389  cd basant
+  390  ls
+  391  find hi
+  392  find -name hi
+  393  ls
+  394  cd DEsktop
+  395  cd Desktop
+  396  ls
+  397  cat t2.txt
+  398  grep as t2,txt
+  399  grep as t2.txt
+  400  df
+  401  df -m
+  402  df -k
+  403  df -t
+  404  df -T
+  405  df
+  406  df -m
+  407  df -T
+  408  df -h
+  409  df -m
+  410  du
+  411  du -s
+  412  ls
+  413  diff t2.txt te1.txt
+  414  cat t2,txt
+  415  cat t2.txt
+  416  ls
+  417  zip archive.zip t2.txt
+  418  unzip archive.zip
+  419  useradd aya
+  420  sudo useradd aya
+  421  sudo su
+  422  nano
+  423  ls
+  424  cd Desktop
+  425  LS
+  426  ls
+  427  nano t2.txt
+  428  t2.txt
+  429  cat t2.txt
+  430  du
+  431  ls
+  432  df
+  433  ls
+  434  man cd
+  435  man ls
+  436  cd --help
+  437  man cp
+  438  man 1 intro
+  439  man 2 intro
+  440  man 9 intro
+  441  man 8 intro
+  442  LS
+  443  man LS
+  444  man -I LS
+  445  man -i LS
+  446  man -f ls
+  447  man 1 intro
+  448  histry
+  449  history
+  450  history>>alaaTXT
+  451  gedit alaaTXT
+  452  LS
+  453  ls
+  454  cat alaaTXT
+  455  ls
+  456  cat test.c
+  457  man 5 intro
+  458  man 6 intro
+  459  man -k pass
+  460  man -k pass| greb pass
+  461  man -k pass| gerab pass
+  462  man -k pass| grib pass
+  463  lsusb
+  464  man -w ls
+  465  cd /usr/share/man
+  466  ls
+  467  cd man1
+  468  ls
+  469  cat passwd.1
+  470  cat passwd.1.gz
+  471  man 3 intro
+  472  man 3 printf
+  473  man 3 intro
+  474  man 3 printf
+  475  man 3 scanf
+  476  man man
+  477  help
+  478  cd..
+  479  cd ..
+  480  dc ~
+  481  cd ~
+  482  top
+  483  whoami
+  484  hostname
+  485  useradd pp
+  486  sudo useradd
+  487  password
+  488  hostname
+  489  whoami
+  490  uptime
+  491  lsusb
+  492  lsub
+  493  ls usb
+  494  lsusb
+  495  lspi
+  496  lsspi
+  497  lspi
+  498  lscpi
+  499  lspci
+  500  lscpu
+  501  man -k gpu
+  502  amdgpu
+  503  man amdgpu
+  504  lsmod
+  505  imp
+  506  lmp
+  507  env
+  508  printenv
+  509  sudo apt install terminator
+  510  echo $x
+  511  exit
+  512  export x=100
+  513  echo $x
+  514  gedit alaa
+  515  ls
+  516  gedit alaa7&
+  517  bash
+  518  exit
+  519  exit
+  520  bash
+  521  exit
+  522  terminator
+  523  gedit alaaelnagar
+  524  vim  alaaelnagar
+  525  sudo apt install neovim 
+  526  vim  alaaelnagar
+  527  gedit  alaaelnagar
+  528  nano  alaaelnagar
+  529  uname
+  530  uname -n
+  531  uname-r
+  532  uname -a
+  533  ls lomg
+  534  ls long
+  535  man long list
+  536  ls long
+  537  ls lg
+  538  ls -l
+  539  nano  alaaelnagar
+  540  gedit  alaaelnagar
+  541  nano  alaaelnagar
+  542  gedit  alaaelnagar
+  543  cat  alaaelnagar >>f2
+  544  cat f2
+  545  cat  alaaelnagar >>f2
+  546  cat f2
+  547  cat  alaaelnagar >f2
+  548  cat f2
+  549  cat-n f2
+  550  cat -n f2
+  551  cat -s f2
+  552  cat -n f2
+  553  cat  f2
+  554  cat -e f2
+  555  cat  f2
+  556  ls
+  557  cat f2
+  558  grep f f2
+  559  pipe
+  560  gedit 
+  561  sudo apt install python3-pip
+  562  cat f2
+  563  grep ba -c f2
+  564  grep fg -c f2
+  565  gedit f2
+  566  cd /stc
+  567  cd /etc
+  568  cat passwd
+  569  gedit passwd
+  570  cd ..
+  571  ls
+  572  qdbus
+  573  sudo apt install qdbusviewer
+  574  sudo apt install qdbus
+  575  qdbus
+  576  run qdbus
+  577  qdbusviewer-qt4
+  578  sudo apt install qdbusviewer-qt4
+  579  clear
+  580  sudo install apt dfeet
+  581  sudo install dfeet
+  582  sudo install apt d_feet
+  583  sudo apt install d_feet
+  584  sudo apt install dfeet
+  585  sudo apt install d-feet
+  586  d-feet
+  587  ls
+  588  mkdir lab3
+  589  cd lap3
+  590  ls
+  591  cd lab3
+  592  ls
+  593  mkdir f1 f2
+  594  ls
+  595  touch f1.txt
+  596  tree
+  597  sudo snap install tree
+  598  cd lap3
+  599  ls
+  600  cd lab3
+  601  ls
+  602  cb -r f2 f1
+  603  cp -r f2 f1
+  604  f2
+  605  cd f2
+  606  ls
+  607  cd..
+  608  cd ..
+  609  cd f1
+  610  ls
+  611  tree
+  612  ls
+  613  mv f2 f1
+  614  ls
+  615  cd f1
+  616  ls
+  617  cd ..
+  618  ls
+  619  cd ..
+  620  ls
+  621  cd f2
+  622  ls
+  623  clear
+  624  sudo apt install tree
+  625  tree
+  626  ls
+  627  cd ..
+  628  ls
+  629  tree
+  630  cd ..
+  631  tree
+  632  ls
+  633  mkdir f1/f2/f3
+  634  mkdir -p f1/f2/f3/f4
+  635  tree
+  636  ls
+  637  cd f1
+  638  tree
+  639  mkdir -p f30/{f1,f2,f3}
+  640  ls
+  641  cd f30
+  642  ls
+  643  cls
+  644  clear
+  645  tree
+  646  cd ..
+  647  ls
+  648  cd f2
+  649  ls
+  650  tree
+  651  ls
+  652  rm -rv f3
+  653  ls
+  654  cd ..
+  655  ls
+  656  tree
+  657  cd f30
+  658  ls
+  659  rm -ri f30
+  660  cd ..
+  661  rm -ri f30
+  662  y
+  663  cls
+  664  clear
+  665  vim f1
+  666  vim f3
+  667  vim f1
+  668  vim f30
+  669  tail x.txt
+  670  ls
+  671  f30
+  672  cd f30
+  673  tail f30
+  674  vim f30
+  675  tail f30
+  676  more f30
+  677  less f30
+  678  head f30
+  679  tail f30
+  680  more f30
+  681  less f30
+  682  more -n f30
+  683  more -n
+  684  vim f30
+  685  head -n 3 f30
+  686  tail -n 3 f30
+  687  head 3 f30
+  688  more -n 3 f30
+  689  head -3 f30
+  690  more -n 3 f30
+  691  man head
+  692  head -3 f30
+  693  vim f30
+  694  head -3 f30
+  695  clear
+  696  ls -li
+  697  ls
+  698  cd f30
+  699  cd f1
+  700  ls
+  701  ls -li
+  702  clear
+  703  ls
+  704  teee
+  705  tree
+  706  cd f2
+  707  ls
+  708  touch file1.txt
+  709  touch file2.txt
+  710  vim file1.txt
+  711  ls
+  712  touch hussin_hardlink.txt
+  713  touch mansour_hardlink.txt
+  714  ls
+  715  gedit mansour_hardlink.txt
+  716  gedit mansour_hardlink.txt &
+  717  ln mansour_hardlink.txt hussin_hardlink.txt
+  718  rm hussin_hardlink.txt 
+  719  ls
+  720  rm file1.txt
+  721  rm file2.txt 
+  722  ls
+  723  ln mansour_hardlink.txt hussin_hardlink.txt
+  724  ls -li
+  725  cat hussin_hardlink.txt 
+  726  gedit hussin_hardlink.txt 
+  727  rm hussin_hardlink.txt 
+  728  ls
+  729  cat mansour_hardlink.txt 
+  730  clear
+  731  ls
+  732  ls
+  733  touch mansour_softlink.txt
+  734  ls
+  735  rm hussin_hardlink.txt 
+  736  rm mansour_hardlink.txt 
+  737  ls
+  738  ln -s mansour_softlink.txt mans
+  739  ls -il
+  740  gedit mans
+  741  gedit mansour_softlink.txt 
+  742  rm mansour_softlink.txt 
+  743  cat mans 
+  744  ls -il
+  745  touch mansour_softlink.txt
+  746  ls -il
+  747  gedit mans
+  748  gedit mans &
+  749  gedit mansour_softlink.txt 
+  750  ls
+  751  unlink mans
+  752  ls
+  753  unlink mansour_softlink.txt 
+  754  ls
+  755  clear
+  756  ls
+  757  clear
+  758  ls -l file
+  759  ls
+  760  touch file1
+  761  ls -l file1 
+  762  touch he
+  763  ls -l
+  764  ls
+  765  rm file1 
+  766  rm he 
+  767  ls
+  768  touch f1
+  769  ls -l
+  770  chmod u+x f1 
+  771  ls -l
+  772  chmod u-rwx f1 
+  773  ls -l
+  774  chmod g-rwx o-rwx f1 
+  775  chmod g-rw o-r f1 
+  776  ls -l
+  777  chmod o-r f1 
+  778  ls -l
+  779  chmod u+rwx f1 
+  780  ls -l
+  781  chmod g+rwx 0+rwx f1 
+  782  ls -l
+  783  chmod g+rwx0+rwx f1 
+  784  man chmod
+  785  ls -l
+  786  chmod g+rwx, 0+rwx f1 
+  787  chmod g=---, 0=--- f1 
+  788  chmod g=--- 0=--- f1 
+  789  clear
+  790  ls -l
+  791  chmod u=-- f1 
+  792  ls -l
+  793  clear
+  794  chmod uog+rwx  f1 
+  795  ls -l
+  796  chmod uog-rwx  f1 
+  797  chmod 777  f1 
+  798  ls -l
+  799  clear
+  800  sudo adduser g3fr
+  801  sudo username hello
+  802  sudo adduser hello
+  803  switch user
+  804  changeswitch
+  805  change user
+  806  su hello
+  807  sudo deluser hello
+  808  cd ~
+  809  ls
+  810  cd ..
+  811  cd~
+  812  cd ~
+  813  cd ..
+  814  ls
+  815  sudo rm -rf hello
+  816  ls
+  817  su hello
+  818  lear
+  819  clear
+  820  sudo deluser hello
+  821  su hello
+  822  sudo usermod -aG sudo hello
+  823  su hello
+  824  groups
+  825  su hello
+  826  rm -r /
+  827  rm -r / 2>errorfile
+  828  ls
+  829  cd errorfile
+  830  errorfile
+  831  rm -r / 1>errorfile
+  832  cd /
+  833  ls
+  834  cd dev
+  835  ls
+  836  cd ~
+  837  grep -r power /sys/ 1> /dev/null
+  838  clear
+  839* 
+  840  ls
+  841  cd file12
+  842  cat file12
+  843  gedit file12
+  844  ls
+  845* 
+  846  grep -r power /sys/ 1> file12
+  847  cd ~
+  848* 
+  849  ls
+  850  gedit file12
+  851  clear
+  852  gedit file12
+  853  touch 1x 2n 3x 4x 5x
+  854  ls
+  855  cd file
+  856  cd f1
+  857  ls
+  858  cd f2
+  859  ls
+  860  touch 1x 2x 3x 4x 5x
+  861  rm -r *x
+  862  ls
+  863  touch f1 f2 f3 f4
+  864  l
+  865  ls
+  866  ls -l
+  867  ls
+  868  rm -r *f*
+  869  ls
+  870  touch f a e er rt 
+  871  rm -r *[a-z]*
+  872  ls
+  873  history
+  874  cls
+  875  sudo apt install mailutils
+  876  mail -s "Hello World" hebaashraf26699@gmail.com
+  877  cd ~
+  878  sudo su
+  879  mail --version
+  880  sudo apt -get install mail
+  881  sudo apt-get install mail
+  882  sudo apt-get install mailutils
+  883  clear
+  884  nano /etc/ssmtp/ssmtp.conf
+  885  sudo nano /etc/ssmtp/ssmtp.conf
+  886  sudo apt-get install ssmtp
+  887  sudo nano /etc/ssmtp/ssmtp.conf
+  888  clear
+  889  mail -s "hello"
+  890  clear
+  891  sudo nano /etc/ssmtp/ssmtp.conf
+  892  mail -s "hello"
+  893  sudo nano /etc/ssmtp/ssmtp.conf
+  894  mail -s "hello"
+  895  sudo nano /etc/ssmtp/ssmtp.conf
+  896  mail -s "hello"
+  897  sudo nano /etc/ssmtp/ssmtp.conf
+  898  mail -s "hello"
+  899  history
+  900  ls
+  901  touch history_to_mail
+  902  history >> history_to_mail
+  404  df -T
+  405  df
+  406  df -m
+  407  df -T
+  408  df -h
+  409  df -m
+  410  du
+  411  du -s
+  412  ls
+  413  diff t2.txt te1.txt
+  414  cat t2,txt
+  415  cat t2.txt
+  416  ls
+  417  zip archive.zip t2.txt
+  418  unzip archive.zip
+  419  useradd aya
+  420  sudo useradd aya
+  421  sudo su
+  422  nano
+  423  ls
+  424  cd Desktop
+  425  LS
+  426  ls
+  427  nano t2.txt
+  428  t2.txt
+  429  cat t2.txt
+  430  du
+  431  ls
+  432  df
+  433  ls
+  434  man cd
+  435  man ls
+  436  cd --help
+  437  man cp
+  438  man 1 intro
+  439  man 2 intro
+  440  man 9 intro
+  441  man 8 intro
+  442  LS
+  443  man LS
+  444  man -I LS
+  445  man -i LS
+  446  man -f ls
+  447  man 1 intro
+  448  histry
+  449  history
+  450  history>>alaaTXT
+  451  gedit alaaTXT
+  452  LS
+  453  ls
+  454  cat alaaTXT
+  455  ls
+  456  cat test.c
+  457  man 5 intro
+  458  man 6 intro
+  459  man -k pass
+  460  man -k pass| greb pass
+  461  man -k pass| gerab pass
+  462  man -k pass| grib pass
+  463  lsusb
+  464  man -w ls
+  465  cd /usr/share/man
+  466  ls
+  467  cd man1
+  468  ls
+  469  cat passwd.1
+  470  cat passwd.1.gz
+  471  man 3 intro
+  472  man 3 printf
+  473  man 3 intro
+  474  man 3 printf
+  475  man 3 scanf
+  476  man man
+  477  help
+  478  cd..
+  479  cd ..
+  480  dc ~
+  481  cd ~
+  482  top
+  483  whoami
+  484  hostname
+  485  useradd pp
+  486  sudo useradd
+  487  password
+  488  hostname
+  489  whoami
+  490  uptime
+  491  lsusb
+  492  lsub
+  493  ls usb
+  494  lsusb
+  495  lspi
+  496  lsspi
+  497  lspi
+  498  lscpi
+  499  lspci
+  500  lscpu
+  501  man -k gpu
+  502  amdgpu
+  503  man amdgpu
+  504  lsmod
+  505  imp
+  506  lmp
+  507  env
+  508  printenv
+  509  sudo apt install terminator
+  510  echo $x
+  511  exit
+  512  export x=100
+  513  echo $x
+  514  gedit alaa
+  515  ls
+  516  gedit alaa7&
+  517  bash
+  518  exit
+  519  exit
+  520  bash
+  521  exit
+  522  terminator
+  523  gedit alaaelnagar
+  524  vim  alaaelnagar
+  525  sudo apt install neovim 
+  526  vim  alaaelnagar
+  527  gedit  alaaelnagar
+  528  nano  alaaelnagar
+  529  uname
+  530  uname -n
+  531  uname-r
+  532  uname -a
+  533  ls lomg
+  534  ls long
+  535  man long list
+  536  ls long
+  537  ls lg
+  538  ls -l
+  539  nano  alaaelnagar
+  540  gedit  alaaelnagar
+  541  nano  alaaelnagar
+  542  gedit  alaaelnagar
+  543  cat  alaaelnagar >>f2
+  544  cat f2
+  545  cat  alaaelnagar >>f2
+  546  cat f2
+  547  cat  alaaelnagar >f2
+  548  cat f2
+  549  cat-n f2
+  550  cat -n f2
+  551  cat -s f2
+  552  cat -n f2
+  553  cat  f2
+  554  cat -e f2
+  555  cat  f2
+  556  ls
+  557  cat f2
+  558  grep f f2
+  559  pipe
+  560  gedit 
+  561  sudo apt install python3-pip
+  562  cat f2
+  563  grep ba -c f2
+  564  grep fg -c f2
+  565  gedit f2
+  566  cd /stc
+  567  cd /etc
+  568  cat passwd
+  569  gedit passwd
+  570  cd ..
+  571  ls
+  572  qdbus
+  573  sudo apt install qdbusviewer
+  574  sudo apt install qdbus
+  575  qdbus
+  576  run qdbus
+  577  qdbusviewer-qt4
+  578  sudo apt install qdbusviewer-qt4
+  579  clear
+  580  sudo install apt dfeet
+  581  sudo install dfeet
+  582  sudo install apt d_feet
+  583  sudo apt install d_feet
+  584  sudo apt install dfeet
+  585  sudo apt install d-feet
+  586  d-feet
+  587  ls
+  588  mkdir lab3
+  589  cd lap3
+  590  ls
+  591  cd lab3
+  592  ls
+  593  mkdir f1 f2
+  594  ls
+  595  touch f1.txt
+  596  tree
+  597  sudo snap install tree
+  598  cd lap3
+  599  ls
+  600  cd lab3
+  601  ls
+  602  cb -r f2 f1
+  603  cp -r f2 f1
+  604  f2
+  605  cd f2
+  606  ls
+  607  cd..
+  608  cd ..
+  609  cd f1
+  610  ls
+  611  tree
+  612  ls
+  613  mv f2 f1
+  614  ls
+  615  cd f1
+  616  ls
+  617  cd ..
+  618  ls
+  619  cd ..
+  620  ls
+  621  cd f2
+  622  ls
+  623  clear
+  624  sudo apt install tree
+  625  tree
+  626  ls
+  627  cd ..
+  628  ls
+  629  tree
+  630  cd ..
+  631  tree
+  632  ls
+  633  mkdir f1/f2/f3
+  634  mkdir -p f1/f2/f3/f4
+  635  tree
+  636  ls
+  637  cd f1
+  638  tree
+  639  mkdir -p f30/{f1,f2,f3}
+  640  ls
+  641  cd f30
+  642  ls
+  643  cls
+  644  clear
+  645  tree
+  646  cd ..
+  647  ls
+  648  cd f2
+  649  ls
+  650  tree
+  651  ls
+  652  rm -rv f3
+  653  ls
+  654  cd ..
+  655  ls
+  656  tree
+  657  cd f30
+  658  ls
+  659  rm -ri f30
+  660  cd ..
+  661  rm -ri f30
+  662  y
+  663  cls
+  664  clear
+  665  vim f1
+  666  vim f3
+  667  vim f1
+  668  vim f30
+  669  tail x.txt
+  670  ls
+  671  f30
+  672  cd f30
+  673  tail f30
+  674  vim f30
+  675  tail f30
+  676  more f30
+  677  less f30
+  678  head f30
+  679  tail f30
+  680  more f30
+  681  less f30
+  682  more -n f30
+  683  more -n
+  684  vim f30
+  685  head -n 3 f30
+  686  tail -n 3 f30
+  687  head 3 f30
+  688  more -n 3 f30
+  689  head -3 f30
+  690  more -n 3 f30
+  691  man head
+  692  head -3 f30
+  693  vim f30
+  694  head -3 f30
+  695  clear
+  696  ls -li
+  697  ls
+  698  cd f30
+  699  cd f1
+  700  ls
+  701  ls -li
+  702  clear
+  703  ls
+  704  teee
+  705  tree
+  706  cd f2
+  707  ls
+  708  touch file1.txt
+  709  touch file2.txt
+  710  vim file1.txt
+  711  ls
+  712  touch hussin_hardlink.txt
+  713  touch mansour_hardlink.txt
+  714  ls
+  715  gedit mansour_hardlink.txt
+  716  gedit mansour_hardlink.txt &
+  717  ln mansour_hardlink.txt hussin_hardlink.txt
+  718  rm hussin_hardlink.txt 
+  719  ls
+  720  rm file1.txt
+  721  rm file2.txt 
+  722  ls
+  723  ln mansour_hardlink.txt hussin_hardlink.txt
+  724  ls -li
+  725  cat hussin_hardlink.txt 
+  726  gedit hussin_hardlink.txt 
+  727  rm hussin_hardlink.txt 
+  728  ls
+  729  cat mansour_hardlink.txt 
+  730  clear
+  731  ls
+  732  ls
+  733  touch mansour_softlink.txt
+  734  ls
+  735  rm hussin_hardlink.txt 
+  736  rm mansour_hardlink.txt 
+  737  ls
+  738  ln -s mansour_softlink.txt mans
+  739  ls -il
+  740  gedit mans
+  741  gedit mansour_softlink.txt 
+  742  rm mansour_softlink.txt 
+  743  cat mans 
+  744  ls -il
+  745  touch mansour_softlink.txt
+  746  ls -il
+  747  gedit mans
+  748  gedit mans &
+  749  gedit mansour_softlink.txt 
+  750  ls
+  751  unlink mans
+  752  ls
+  753  unlink mansour_softlink.txt 
+  754  ls
+  755  clear
+  756  ls
+  757  clear
+  758  ls -l file
+  759  ls
+  760  touch file1
+  761  ls -l file1 
+  762  touch he
+  763  ls -l
+  764  ls
+  765  rm file1 
+  766  rm he 
+  767  ls
+  768  touch f1
+  769  ls -l
+  770  chmod u+x f1 
+  771  ls -l
+  772  chmod u-rwx f1 
+  773  ls -l
+  774  chmod g-rwx o-rwx f1 
+  775  chmod g-rw o-r f1 
+  776  ls -l
+  777  chmod o-r f1 
+  778  ls -l
+  779  chmod u+rwx f1 
+  780  ls -l
+  781  chmod g+rwx 0+rwx f1 
+  782  ls -l
+  783  chmod g+rwx0+rwx f1 
+  784  man chmod
+  785  ls -l
+  786  chmod g+rwx, 0+rwx f1 
+  787  chmod g=---, 0=--- f1 
+  788  chmod g=--- 0=--- f1 
+  789  clear
+  790  ls -l
+  791  chmod u=-- f1 
+  792  ls -l
+  793  clear
+  794  chmod uog+rwx  f1 
+  795  ls -l
+  796  chmod uog-rwx  f1 
+  797  chmod 777  f1 
+  798  ls -l
+  799  clear
+  800  sudo adduser g3fr
+  801  sudo username hello
+  802  sudo adduser hello
+  803  switch user
+  804  changeswitch
+  805  change user
+  806  su hello
+  807  sudo deluser hello
+  808  cd ~
+  809  ls
+  810  cd ..
+  811  cd~
+  812  cd ~
+  813  cd ..
+  814  ls
+  815  sudo rm -rf hello
+  816  ls
+  817  su hello
+  818  lear
+  819  clear
+  820  sudo deluser hello
+  821  su hello
+  822  sudo usermod -aG sudo hello
+  823  su hello
+  824  groups
+  825  su hello
+  826  clear
+  827  uname -a
+  828  ls
+  829  ls -l
+  830  ls
+  831  cd f2
+  832  clear
+  833  cat -n
+  834  cat -s
+  835  ls
+  836  gedit alaa
+  837  cat -n alaa
+  838  cat -s alaa
+  839  car alaa
+  840  cat alaa
+  841  gedit alaa
+  842  cat -s alaa
+  843  cat -E alaa
+  844  clear
+  845  4
+  846  ZOOM
+  847  ls
+  848  cd f3
+  849  mv
+  850  mov
+  851  man mv
+  852  clear
+  853  touch main.txt local.txt
+  854  ln main.txt local.txt
+  855  ls
+  856  rm local.txt
+  857  ls
+  858  ln main.txt local.txt
+  859  ls -l
+  860  gedit main.txt &
+  861  vim main.txt
+  862  mkdir new
+  863  cd new
+  864  ls
+  865  touch main.txt
+  866  ln main.txt local.txt
+  867  gedit main.txt
+  868  clear
+  869  ls -li
+  870  gedit main.txt
+  871  cat main.txt
+  872  ls
+  873  main.txt
+  874  gedit main
+  875  gedit main.txt
+  876  ls
+  877  rm main.txt local.txt
+  878  ls
+  879  touch m
+  880  ln m l
+  881  ls -li
+  882  gedit m
+  883  ls
+  884  cat l
+  885  tail ls
+  886  tail l
+  887  tail -n 3 l
+  888  tail -n 2 l
+  889  more -n 2 l
+  890  less -n 2 l
+  891  more -2 l
+  892  ls
+  893  l
+  894  cat l
+  895  cat m
+  896  rm l
+  897  ls
+  898  cat m
+  899  tree
+  900  touch l
+  901  tree
+  902  history
+  903  ls
+  904  rm m
+  905  ls
+  906  history |grep power
+  907  more -n 2 lclear
+  908  clear
+  909  grep -r power/sys/1>/dev/null>file1
+  910  cd~
+  911  cd ~
+  912  grep -r power/sys/1>/dev/null>file1
+  913  ls
+  914  cat file1
+  915  grep -r power/sys/1>/dev/null>file4
+  916  grep -r power /sys/1> /dev/null>file4
+  917  grep -r power /sys/ 1> /dev/null>file4
+  918  mail -s "ERRORS" -A file4
+  919  clear
+  920  ls
+  921  cat f2
+  922  ls -l f2
+  923  chmod 777 f2
+  924  ls -l f2
+  925  chmod 000 f2
+  926  ls -l f2
+  927  rm -r /
+  928  rm -r / 2>errorfile
+  929  ls
+  930  cd errorfile
+  931  errorfile
+  932  rm -r / 1>errorfile
+  933  cd /
+  934  ls
+  935  cd dev
+  936  ls
+  937  cd ~
+  938  grep -r power /sys/ 1> /dev/null
+  939  clear
+  940  ls
+  941  cd file12
+  942  cat file12
+  943  gedit file12
+  944  ls
+  945  grep -r power /sys/ 1> file12
+  946  cd ~
+  947  ls
+  948  gedit file12
+  949  clear
+  950  gedit file12
+  951  touch 1x 2n 3x 4x 5x
+  952  ls
+  953  cd file
+  954  cd f1
+  955  ls
+  956  cd f2
+  957  ls
+  958  touch 1x 2x 3x 4x 5x
+  959  rm -r *x
+  960  ls
+  961  touch f1 f2 f3 f4
+  962  l
+  963  ls
+  964  ls -l
+  965  ls
+  966  rm -r *f*
+  967  ls
+  968  touch f a e er rt 
+  969  rm -r *[a-z]*
+  970  ls
+  971  history
+  972  cls
+  973  sudo apt install mailutils
+  974  mail -s "Hello World" hebaashraf26699@gmail.com
+  975  cd ~
+  976  sudo su
+  977  mail --version
+  978  sudo apt -get install mail
+  979  sudo apt-get install mail
+  980  sudo apt-get install mailutils
+  981  clear
+  982  nano /etc/ssmtp/ssmtp.conf
+  983  sudo nano /etc/ssmtp/ssmtp.conf
+  984  sudo apt-get install ssmtp
+  985  sudo nano /etc/ssmtp/ssmtp.conf
+  986  clear
+  987  mail -s "hello"
+  988  clear
+  989  sudo nano /etc/ssmtp/ssmtp.conf
+  990  mail -s "hello"
+  991  sudo nano /etc/ssmtp/ssmtp.conf
+  992  mail -s "hello"
+  993  sudo nano /etc/ssmtp/ssmtp.conf
+  994  mail -s "hello"
+  995  sudo nano /etc/ssmtp/ssmtp.conf
+  996  mail -s "hello"
+  997  history
+  998  ls
+  999  touch history_to_mail
+ 1000  history >> history_to_mail
+ 1001  cat history_to_mail
+ 1002  mail -s "history of terminal" -A history_to_mail
+ 1003  mail -s "hello"
+ 1004  pwd
+ 1005  ls
+ 1006  gedit f3
+ 1007  ets
+ 1008  ets f3
+ 1009  cls
+ 1010  clear
+ 1011  ls
+ 1012  touch f1.c
+ 1013  gcc f1.c -o test
+ 1014  ls
+ 1015  gcc f1.c
+ 1016  cd basant
+ 1017  ls
+ 1018  clear
+ 1019  ls
+ 1020  cd ..
+ 1021  ls
+ 1022  gedit f1.c
+ 1023  gcc f1.c
+ 1024  gedit f1.c
+ 1025  gcc f1.c
+ 1026  gcc f1.c -o f1.exe
+ 1027  f1
+ 1028  f1.ece
+ 1029  f1.exe
+ 1030  f1.c
+ 1031  gcc f1.c -o f
+ 1032  f
+ 1033  f.c
+ 1034  clear
+ 1035  ls
+ 1036  ls | grep x
+ 1037  man
+ 1038  man man
+ 1039  man ls
+ 1040  --help
+ 1041  cd --help
+ 1042  clear
+ 1043  man -w ls
+ 1044  man 3
+ 1045  man | intro
+ 1046  uptime
+ 1047  hostname
+ 1048  whoami
+ 1049  isasb
+ 1050  lsasb
+ 1051  lsusb
+ 1052  man -k gpu
+ 1053  lsmod
+ 1054  clear
+ 1055  vim alaa
+ 1056  bash
+ 1057  exit
+ 1058  ls /bin|grep ash
+ 1059  var1=status
+ 1060  echo $var1
+ 1061  ls
+ 1062  echo var1
+ 1063  clear
+ 1064  pwd
+ 1065  echo $pwd
+ 1066  echo $HOME
+ 1067  echo $pwd
+ 1068  echo $PWD
+ 1069  echo $SHELL
+ 1070  home
+ 1071  env
+ 1072  cd~
+ 1073  ls
+ 1074  cd ~
+ 1075  ls
+ 1076  env
+ 1077  gedit .bashrc
+ 1078  clear
+ 1079  ls
+ 1080  cd Desktop
+ 1081  ls
+ 1082  mkdir g4
+ 1083  cd g4
+ 1084  ls
+ 1085  touch lab1
+ 1086  gedit lab1&
+ 1087  clear
+ 1088  ./ lab1
+ 1089  ls
+ 1090  ./lab1
+ 1091  ls -l
+ 1092  chmod 777 lab1
+ 1093  ./lab1
+ 1094  clear
+ 1095  ./lab1
+ 1096  clear
+ 1097  ./lab1
+ 1098  clear
+ 1099  bash
+ 1100  exit
+ 1101  echo "hello"
+ 1102  ./lab1
+ 1103  ls
+ 1104  cd DEsktop
+ 1105  cd Desktop
+ 1106  ./lab1
+ 1107  ls
+ 1108  cd g4
+ 1109  ./lab1
+ 1110  clear
+ 1111  ./lab1
+ 1112  clear
+ 1113  ./lab1
+ 1114  clear
+ 1115  ./lab1
+ 1116  clear
+ 1117  ./lab1
+ 1118  clear
+ 1119  ./lab1
+ 1120  ls
+ 1121  cat lab1
+ 1122  clear
+ 1123  ls
+ 1124  ./lab1
+ 1125  clear
+ 1126  ./lab1
+ 1127  clear
+ 1128  ./lab1
+ 1129  touch f1 f11 f111
+ 1130  ./lab1
+ 1131  ls
+ 1132  ./lab1
+ 1133  ls
+ 1134  ./lab1
+ 1135  clear
+ 1136  ./lab1
+ 1137  export my=100
+ 1138  ./lab1
+ 1139  export my=100
+ 1140  ./lab1
+ 1141  bash
+ 1142  echo $my
+ 1143  bash
+ 1144  echo $my
+ 1145  clear
+ 1146  ./lab1
+ 1147  clear
+ 1148  ./lab1
+ 1149  clear
+ 1150  ./lab1
+ 1151  clear
+ 1152  ls
+ 1153  rm f1 f11 f111
+ 1154  ls
+ 1155  ./lab1
+ 1156  ls
+ 1157  clear
+ 1158  redil
+ 1159  ./lab1
+ 1160  ls
+ 1161  cat adc.h
+ 1162  ./lab1
+ 1163  ls
+ 1164  cat dd.h
+ 1165  ./lab1
+ 1166  cat a.h
+ 1167  clear
+ 1168  ./lab1
+ 1169  ls
+ 1170  cat asd.h
+ 1171  ./lab1
+ 1172  cat qw.h
+ 1173  ./lab1
+ 1174  cat q.h
+ 1175  ls
+ 1176  cat qq.h
+ 1177  clear
+ 1178  ./lab1
+ 1179  cat aaa.h
+ 1180  clear
+ 1181  ./lab1
+ 1182  ls
+ 1183  mkdir task
+ 1184  ./lab1
+ 1185  clear
+ 1186  ./lab1
+ 1187  cat qwe.h
+ 1188  ./lab1
+ 1189  qq.h
+ 1190  cat qq.h
+ 1191  ./lab1
+ 1192  cat q.h
+ 1193  clear
+ 1194  histort
+ 1195  history
+ 1196  [200~ mail -s "history of terminal" -A history_to_mail
+ 1197  clear
+ 1198  ls
+ 1199  adc.h
+ 1200  cat adc.h
+ 1201  mail -s "linex task" -A adc.h
+ 1202  adc.h
+ 1203  clear
+ 1204  stty -echo
+ 1205  clear
+ 1206  stty -echo
+ 1207  stty echo
+ 1208  stty -echo
+ 1209  stty echo
+ 1210  stty -echo
+ 1211  clear
+ 1212  stty echo
+ 1213  xdg
+ 1214  sudo xdg
+ 1215  xdg-open --help
+ 1216  xdg-open www.youtube.com
+ 1217  xdg-opens www.youtube.com
+ 1218  clear
+ 1219  xdg-open youtube
+ 1220  cd~
+ 1221  cd ~
+ 1222  xdg-open youtube
+ 1223  xdg-open 'http://youtube.com'
+ 1224  clear
+ 1225  ls
+ 1226  cd Desktop
+ 1227  ls
+ 1228  cd g4
+ 1229  ls
+ 1230  cd ..
+ 1231  ls
+ 1232  cd g4
+ 1233  mdkir new
+ 1234  mkdir ner
+ 1235  cd ner
+ 1236  ./lab1
+ 1237  cd ..
+ 1238  ls
+ 1239  cd task
+ 1240  ls
+ 1241  cd ..
+ 1242  ./lab1
+ 1243  ls
+ 1244  history
+ 1245  ddd mail -s "history of terminal" -A 
+ 1246  ls
+ 1247  cat aaa.h
+ 1248  mail -s "hello" -A aaa.h
+ 1249  clear
+ 1250  ./lab1
+ 1251  clear
+ 1252  ./lab1
+ 1253  clear
+ 1254  ./lab1
+ 1255  clear
+ 1256  ./lab1
+ 1257  clear
+ 1258  ./lab1
+ 1259  clear
+ 1260  ./lab1
+ 1261  ./lab1 10 20 30
+ 1262  clear
+ 1263  ./lab1 10 20 30
+ 1264  clear
+ 1265  ./lab1 10 20 30
+ 1266  clear
+ 1267  ./lab1
+ 1268  clrae
+ 1269  clear
+ 1270  ./lab1
+ 1271  clear
+ 1272  ./lab1
+ 1273  clear
+ 1274  ./lab1
+ 1275  clear
+ 1276  ./lab1
+ 1277  clear
+ 1278  ./lab1
+ 1279  clear
+ 1280  ./lab1
+ 1281  clear
+ 1282  ./lab1
+ 1283  clear
+ 1284  ./lab1
+ 1285  clear
+ 1286  cd ~
+ 1287  resperipi
+ 1288  raspberry pi
+ 1289  raspi
+ 1290  sudo apt install rpi-imager
+ 1291  rpi
+ 1292  cd downloads
+ 1293  ls
+ 1294  cd Downloads
+ 1295  ls
+ 1296  cls
+ 1297  clear
+ 1298  cd ~
+ 1299  sudo apt-get install sox
+ 1300  sudo apt-get install libsox-fmt-all
+ 1301  clear
+ 1302  audiolap
+ 1303  cd
+ 1304  ls
+ 1305  cd Downloads
+ 1306  cd
+ 1307  ls
+ 1308  cd Downloads
+ 1309  ls
+ 1310  l
+ 1311  Lili boniche _ 06 - Bambino.wmv
+ 1312  Lili boniche _ 06 - Bambino.mp3
+ 1313  Lili_boniche_Bambino.mp3
+ 1314  play Lili boniche _ 06 - Bambino.wmv
+ 1315  play Lili_Boniche_Bambino.mp3
+ 1316  ls
+ 1317  cd Desktop
+ 1318  ls
+ 1319  play Lili_Boniche_Bambino.mp3
+ 1320  touch player
+ 1321  gedit player
+ 1322  cls
+ 1323  clear
+ 1324  chmod 777 player
+ 1325  ls -li
+ 1326  ./player
+ 1327  ./ player
+ 1328  ./player
+ 1329  clear
+ 1330  ./player
+ 1331  clear
+ 1332  history
+ 1333  clear
+ 1334  stty -ecco
+ 1335  stty -echo
+ 1336  ls
+ 1337  stty echo
+ 1338  ./player
+ 1339  ./plyer
+ 1340  ./player
+ 1341  l
+ 1342  ls
+ 1343  cd Desktop
+ 1344  ./player
+ 1345  ssh
+ 1346  ssh pi@raspberrypi.local
+ 1347  ssh pi@raspberrypi
+ 1348  ssh pi@raspberrypi.local
+ 1349  ls
+ 1350  cd Desktop
+ 1351  ls
+ 1352  ls -li
+ 1353  ls -li lab1
+ 1354  ./lap1
+ 1355  ls
+ 1356  ./lab1
+ 1357  claer
+ 1358  clear
+ 1359  ./lab1
+ 1360  mkdir alaa
+ 1361  cd alaa
+ 1362  ls
+ 1363  ./lab1
+ 1364  cd ..
+ 1365  ./lab1
+ 1366  ls
+ 1367  ./lab1
+ 1368  clear
+ 1369  ./lab1
+ 1370  ls
+ 1371  cat ww.c
+ 1372  gedit ww.c
+ 1373  gedit ww.h
+ 1374  gedit ww
+ 1375  gedit ww_config.h
+ 1376  ./lab1
+ 1377  ls
+ 1378  gedit mo.h
+ 1379  ./lab1
+ 1380  gedit k.h
+ 1381  ./lab1
+ 1382  clear
+ 1383  ./lab1
+ 1384  clear
+ 1385  ./lab1
+ 1386  clear
+ 1387  cd /
+ 1388  ls
+ 1389  cd media
+ 1390  ls
+ 1391  clear
+ 1392  cd ~
+ 1393  ssh pi@raspberrypi.local
+ 1394  ssh pi@raspberrypi
+ 1395  ssh pi@raspberry
+ 1396  ssh pi@raspberrypi.local
+ 1397  ssh pi@raspberrypi
+ 1398  ssh pi@raspberry
+ 1399  history
+ 1400  mail -s "history of terminal" -A
+ 1401  mail -s "history of terminal" -A history_to_mail
+ 1402  touch history_to_mail
+ 1403  history >>  history_to_mail
