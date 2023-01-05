@@ -1,0 +1,8 @@
+#sending the error by mail
+
+grep -r power/sys/1>/dev/null>file
+
+mail -s " errors " -A file
+TO:
+Cc:
+This is the errors of the system
