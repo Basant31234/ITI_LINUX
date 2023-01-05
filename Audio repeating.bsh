@@ -1,3 +1,5 @@
+#bash script to play audio every 5 min.
+
 #!/bin/bash
 
 while :
