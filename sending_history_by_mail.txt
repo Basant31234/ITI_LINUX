@@ -1,0 +1,9 @@
+
+
+touch history_to_mail
+history >> history_to_mail
+
+mail -s "history of terminal" -A history_to_mail
+TO:
+Cc:
+This is the history that used in linux
